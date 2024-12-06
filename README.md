@@ -1,42 +1,69 @@
-# List of Assets Used in [Your Game Name]
+# List of Assets Used in [HW6]
 
 ## Unity Asset Store
-1. **Starfield Skybox**
+1. **Skybox Volume 2 (Nebula)**
    - **Source**: Unity Asset Store
    - **Version**: 1.0
-   - **Usage**: Background skybox for space-themed levels.
+   - **Usage**: skybox
    - **License**: Free for commercial use.
 
-2. **Skybox Volume 2 (Nebula)**
+2. **DL Fantasy RPG Effects**
    - **Source**: Unity Asset Store
    - **Version**: 1.0
-   - **Usage**: Nebula background for specific scenes.
+   - **Usage**: visual effect
    - **License**: Free for commercial use.
 
-3. **Footsteps - Essentials**
+3. **Weapons Pack - Free**
    - **Source**: Unity Asset Store
-   - **Version**: 1.3
-   - **Usage**: Footstep sound effects for character movement.
+   - **Version**: 1.0.2
+   - **Usage**: item material
    - **License**: Free for commercial use.
+  
+4. **Sci-Fi Soldier**
+   - **Source**: Unity Asset Store
+   - **Version**: 1.2
+   - **Usage**: enemy model and animation
+   - **License**: Free for commercial use.
+     
+5. **FREE Industrial building/Garage**
+   - **Source**: Unity Asset Store
+   - **Version**: 1.0
+   - **Usage**: Topographical features
+   - **License**: Free for commercial use.
+
+6. **Storage Building**
+   - **Source**: Unity Asset Store
+   - **Version**: 1.0
+   - **Usage**: Topographical features
+   - **License**: Free for commercial use
+  
+7. **Brick Textures 4k**
+   - **Source**: Unity Asset Store
+   - **Version**: 1.0
+   - **Usage**: road textures
+   - **License**: Free for commercial use
+
+8. **Realistic Tree 9 [Rainbow Tree]**
+   - **Source**: Unity Asset Store
+   - **Version**: 1.0
+   - **Usage**: trees
+   - **License**: Free for commercial use
+     
+9. **Unity-Chan! Model**
+   - **Source**: Unity Asset Store
+   - **Version**: 1.2.2
+   - **Usage**: Main character model
+   - **License**: Free for commercial use
 
 ## Internet Resources
-1. **Background Texture**
-   - **Source**: [Unsplash](https://unsplash.com/example-link)
-   - **Usage**: Menu background image.
-   - **License**: Free with attribution (Attribution provided in credits).
+1. **Sounds**
+   - **Source**: [(https://pixabay.com/)]
+   - **Usage**: BGM, Sound effects
 
-2. **Ambient Sound - Forest**
-   - **Source**: [FreeSound](https://freesound.org/example-link)
-   - **Usage**: Background ambient sound for forest scenes.
-   - **License**: Free with attribution (Attribution provided in credits).
+2. **UI images**
+   - **Source**: [(https://pngtree.com/free-png-vectors/white-aiming)]
+   - **Usage**: aim icon
+  
+   - **Source**: [(https://map.naver.com/p/search/%EA%B1%B4%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20%EA%B3%B5%ED%95%99%EA%B4%80/place/31202939?c=15.00,0,0,0,adh&isMini=true&p=2Ka4Cv3GH19OL85npzHs9w,-102.41,10,80,Float)]
+   - **Usage**: building textures
 
-## Custom Assets
-1. **Main Character Model**
-   - **Source**: Custom made using Blender.
-   - **Usage**: Main character in the game.
-   - **License**: Owned by the project creator.
-
-2. **Logo**
-   - **Source**: Designed using Photoshop.
-   - **Usage**: Game logo in the main menu.
-   - **License**: Owned by the project creator.
