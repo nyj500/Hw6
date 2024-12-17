@@ -6,3 +6,6 @@ Build/build_hw1.app/Contents/Resources/Data/*.resS filter=lfs diff=lfs merge=lfs
 Build/build_hw1.app/** filter=lfs diff=lfs merge=lfs -text
 Build/build_hw1.app/Contents/Frameworks/UnityPlayer.dylib filter=lfs diff=lfs merge=lfs -text
 Build/build_hw1.app/Contents/Resources/Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+정확히 filter=lfs diff=lfs merge=lfs -text
+추적 filter=lfs diff=lfs merge=lfs -text
