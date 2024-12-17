@@ -1,9 +1,0 @@
-# 모든 파일 무시
-*
-
-# 빌드 파일만 허용
-!/Build/
-!/Build/**
-
-# README.md 허용
-!/README.md
